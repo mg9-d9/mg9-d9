@@ -1,0 +1,68 @@
+*{
+    margin: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.5em;
+}
+img{
+    width: 75px;
+    height: 75px;
+    background-size: cover;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 30pt;
+    text-align: center;
+}
+a:hover{
+    color: orange;
+}
+.container{
+    border-top: 3pt solid lightgray;
+    border-bottom: 2pt solid lightgray;
+    font-size: 25pt;
+    color: gray;
+}
+#tecnico{
+    font-weight: 400;
+    margin-left: auto;
+    font-size: 18pt;
+}
+.container-redes{
+    display: inline-flex;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+button{
+    border: none;
+    padding: 15px;
+    font-size: 15pt;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: grey;
+}
+button:hover{
+    background-color: orange;
+}
+ul li{
+    margin-left: 25px;
+}
+#experiencia{
+    border-top: 3pt solid lightgray;
+    border-bottom: 2pt solid lightgray;
+    font-size: 20pt;
+}
+h3{
+    font-size: 15pt;
+}
+footer{
+    text-align: center;
+}
